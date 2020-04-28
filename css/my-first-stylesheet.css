@@ -53,3 +53,20 @@ color: Black;
 content:"TOP TIP: ";
 font-weight: bold;
 }
+
+table {
+	font-size:70%;
+	border-collapse:collapse;
+	width:100%;
+}
+th, td {
+	border:1px solid #000000;
+	padding:8px;
+	text-align:left;
+}
+th{
+	background-color:#FCAB68;
+}
+td{
+	background-color:#BA99C0;
+}
