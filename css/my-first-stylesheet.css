@@ -17,7 +17,7 @@ html{
 	background-size:8px 8px;
 }
 h1 {
-	background-color:#C0C0FF
+	
 }
 
 nav ul{
@@ -98,4 +98,14 @@ a:active {
 text-decoration:underline;
 background-color:Black;
 color:White;
+}
+button {
+  border: black;
+  color: black;
+  background-color: green;
+  border-radius: 30px;
+}
+button::hover {
+  background-color: blue;
+  color
 }
