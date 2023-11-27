@@ -104,8 +104,9 @@ button {
   color: black;
   background-color: green;
   border-radius: 30px;
+  transition-duration: 0.1s;
 }
-button::hover {
+button:hover {
   background-color: blue;
-  color
+  color: white;
 }
