@@ -28,7 +28,7 @@
       height="450"
       frameborder="0"
       style="border: 0"
-      allowfullscreen=""
+      allowfullscreen="true"
       aria-hidden="false"
       tabindex="0"
     ></iframe>
