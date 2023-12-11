@@ -31,10 +31,9 @@ h1 {
   width: 500px;
   height: 200px;
   font-size: 100px;
-  
 }
-#bigbutton:hover {
-  
+#lank {
+  color: black:
 }
 
 nav ul {
@@ -127,6 +126,6 @@ button {
   transition-duration: 0.1s;
 }
 button:hover {
-  background-color: blue;
+  background-color: BLACK;
   color: white;
 }
