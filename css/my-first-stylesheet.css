@@ -1,5 +1,5 @@
 body {
-	background-color:Thistle;
+	background-color:orange;
 	border:2px solid Gray;
 	border-radius:16px;
 	font-family:sans-serif;
@@ -91,6 +91,9 @@ color:Purple;
 }
 a:hover{
 text-decoration:underline;
+}
+img:hover {
+  border: 10px sol;
 }
 a:active {
 text-decoration:underline;
