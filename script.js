@@ -1,4 +1,5 @@
 let state = false;
+let confirm = false;
 
 function hello() {
   if (state === false) {
@@ -14,4 +15,8 @@ function hello() {
 
 function hi() {
   document.getElementById("bigbutton").innerHTML = "ITS RIGHT BELOW THIS BUTTON YOU SMART PERSON";
+}
+function agelessthanthirteen() {
+  confirm = true;
+  console.log(confirm);
 }
