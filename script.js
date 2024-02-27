@@ -1,5 +1,5 @@
 let state = false;
-let confirm = false;
+let confirmbutton = false;
 
 function hello() {
   if (state === false) {
@@ -20,3 +20,8 @@ function agelessthanthirteen() {
   confirm = true;
   console.log(confirm);
 }
+function confirmb() {
+  let confirmbutton = true;
+  console.log(confirmbutton);
+  if
+};
