@@ -22,6 +22,9 @@ function agelessthanthirteen() {
 }
 function confirmb() {
   let confirmbutton = true;
+  let text = document.getElementById("text").value
   console.log(confirmbutton);
-  if
+  if (text === "13+") {
+    location.replace("")
+  }
 };
