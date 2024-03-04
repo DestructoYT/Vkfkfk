@@ -25,6 +25,8 @@ function confirmb() {
   let text = document.getElementById("text").value
   console.log(confirmbutton);
   if (text === "13+") {
-    location.replace("")
+    location.replace("https://towerofdoom.glitch.me/mainpage.html");
+  } else {
+    
   }
 };
