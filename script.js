@@ -28,6 +28,7 @@ function confirmb() {
   console.log(confirmbutton);
   if (text === "13+") {
     location.replace("https://towerofdoom.glitch.me/mainpage.html");
-  } else {
+  } else if (text === "13-") {
+    location.replace("https://towerofdoom.glitch.me/goawaylittlekid.html");
   }
 }
